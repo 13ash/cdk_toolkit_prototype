@@ -27,8 +27,7 @@ Resource Billing CLI is a command-line tool that reads and displays AWS resource
 2. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/yourusername/resource-billing-cli.git
-    cd resource-billing-cli
+    git clone https://github.com/13ash/cdk_toolkit_prototype.git
     ```
 
 3. **Install the required dependencies and build the project:**
