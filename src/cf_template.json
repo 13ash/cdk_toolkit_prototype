@@ -1,0 +1,29 @@
+[
+  {
+    "ResourceName": "MyNatGateway",
+    "Service": "VPC",
+    "Free-Tier Eligible": "N",
+    "Free-Tier Threshold": 0,
+    "Usage": 1,
+    "UnitCost": 0.015,
+    "Unit": "H"
+  },
+  {
+    "ResourceName": "MyLambdaFn",
+    "Service": "Lambda",
+    "Free-Tier Eligible": "Y",
+    "Free-Tier Threshold": 1000000,
+    "Usage": 12000,
+    "UnitCost": 0,
+    "Unit": "API CALL"
+  },
+  {
+    "ResourceName": "MyS3Bucket",
+    "Service": "S3",
+    "Free-Tier Eligible": "Y",
+    "Free-Tier Threshold": 1000000,
+    "Usage": 10000,
+    "UnitCost": 0,
+    "Unit": "MB"
+  }
+]
