@@ -55,7 +55,3 @@ Resource Billing CLI is a command-line tool that reads and displays AWS resource
 - [serde](https://crates.io/crates/serde) for JSON deserialization.
 - [colored](https://crates.io/crates/colored) for color-coded output.
 - [dialoguer](https://crates.io/crates/dialoguer) for interactive prompts.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
