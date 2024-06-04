@@ -38,8 +38,7 @@ Resource Billing CLI is a command-line tool that reads and displays AWS resource
 
 1.**Run the CLI tool:**
 
-    cargo run --display --input src/cf_template.json
-
+    cargo run -- display -i src/cf_template.json
 
 2. **Follow the prompt** to decide whether to deploy:
 
